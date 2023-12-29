@@ -1,2 +1,1 @@
-# react
-this is react projects from basic to advance
+This folder is about  react projects from basic to advance
